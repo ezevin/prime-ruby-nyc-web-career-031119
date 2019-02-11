@@ -3,6 +3,7 @@
 
 def prime?(number)
   return false if !number.interger?
+  return false if <2
 end 
 
 
