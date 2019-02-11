@@ -1,7 +1,9 @@
 
 # Add  code here!
 
-
+def prime?(number)
+  
+end 
 
 
 def prime?(number)
